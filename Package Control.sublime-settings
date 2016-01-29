@@ -1,0 +1,15 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Dracula Color Scheme",
+		"HTML5",
+		"Material Theme",
+		"Package Control",
+		"Puppet",
+		"Vagrant"
+	]
+}
